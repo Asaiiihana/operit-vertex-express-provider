@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "toolpkg_id": "com.asai.vertex_express_provider",
+  "version": "0.3.0",
+  "author": ["Asai", "Sol"],
+  "main": "main.js",
+  "display_name": {"zh": "Vertex Express Gemini Provider", "en": "Vertex Express Gemini Provider"},
+  "description": {"zh": "Operit 自訂 AI Provider：透過 Google Agent Platform / Vertex Express API Key 使用 Gemini", "en": "Custom Operit AI provider for Gemini through Google Agent Platform / Vertex Express API key"}
+}
